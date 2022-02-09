@@ -2,6 +2,10 @@
 
 Framework7とNCMBを組み合わせた地図コンポーネントです。
 
+## 動画
+
+[https://www.youtube.com/watch?v=XcmA9nmc_1g](https://www.youtube.com/watch?v=XcmA9nmc_1g)
+
 ## 機能
 
 - 地図表示
