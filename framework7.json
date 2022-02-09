@@ -1,0 +1,31 @@
+{
+  "cwd": "/Volumes/SSD/OneDrive/NCMB",
+  "type": [
+    "cordova"
+  ],
+  "name": "NCMB Map",
+  "pkg": "com.nifcloud.mbaas.map",
+  "framework": "core",
+  "template": "single-view",
+  "bundler": false,
+  "cordova": {
+    "folder": "cordova",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "plugins": [
+      "cordova-plugin-statusbar",
+      "cordova-plugin-keyboard",
+      "cordova-plugin-splashscreen"
+    ]
+  },
+  "theming": {
+    "customColor": false,
+    "color": "#007aff",
+    "darkTheme": false,
+    "iconFonts": true,
+    "fillBars": false
+  },
+  "customBuild": false
+}
